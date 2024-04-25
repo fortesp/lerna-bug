@@ -1,0 +1,9 @@
+20 error TypeError: Cannot read properties of undefined (reading 'ignore-prepublish')
+20 error     at flattenOptions (C:\Develop\Projects\tst2\node_modules\lerna\dist\index.js:4255:26)
+20 error     at runLifecycle (C:\Develop\Projects\tst2\node_modules\lerna\dist\index.js:4277:8)
+20 error     at VersionCommand.runPackageLifecycle (C:\Develop\Projects\tst2\node_modules\lerna\dist\index.js:4341:27)
+20 error     at VersionCommand.runRootLifecycle (C:\Develop\Projects\tst2\node_modules\lerna\dist\index.js:8126:29)
+20 error     at VersionCommand.updatePackageVersions (C:\Develop\Projects\tst2\node_modules\lerna\dist\index.js:8361:22)
+20 error     at tasks (C:\Develop\Projects\tst2\node_modules\lerna\dist\index.js:8140:35)
+20 error     at C:\Develop\Projects\tst2\node_modules\p-waterfall\index.js:5:43
+20 error     at next (C:\Develop\Projects\tst2\node_modules\p-reduce\index.js:17:9)
